@@ -2,9 +2,9 @@ X
 # Esilv-PGL
 ca fonctionne ?
 Nouvelle ligne pour l'exercice 5
-A repository to train myself on Git 
-Line 3
-Line 4
-Line 5
-Line 6
+a- A repository to train myself on Git 
+b- Line 3
+c- Line 4
+d- Line 5
+e- Line 6
 Line 7
